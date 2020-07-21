@@ -16,9 +16,9 @@
 
 ## Generated your own kawaii anime faces  
 To generated your own images  
-'''bash
+```bash
 $ python generate_faces.py ((number of images to generate)) ((filename to save))
-'''
+```
 ## DCGAN Specifics  
 1. I have used BCEloss_with_logits for better numerical stablilty than default BCEloss , read the following for more info - https://www.tensorflow.org/api_docs/python/tf/nn/sigmoid_cross_entropy_with_logits.  
 2. The Generator network has 1 more extra layer than discriminator so as to make it more powerful.  
