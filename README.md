@@ -3,16 +3,16 @@
   
 ## Images generated randomly after 8750 iterations of training  
 ### Sample 1:    
-![Generated Animefaces](Imgs/faces.png)  
+![Generated Animefaces](Imgs/faces.png =250x)  
   
 ### Sample 2:  
-![Generated Animefaces](Imgs/test.png)  
+![Generated Animefaces](Imgs/test.png =250x)  
   
 ### Sample 3:  
-![Generated Animefaces](Imgs/yo.png)  
+![Generated Animefaces](Imgs/yo.png =250x)  
 
 ## Original Images for comparision    
-![Some original images for comparision](Imgs/original.png)
+![Some original images for comparision](Imgs/original.png =250x)
 
 ## Generated your own kawaii anime faces  
 To generated your own images  
