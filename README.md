@@ -2,11 +2,15 @@
 > Using DCGAN and using it for generating kawaii anime faces.  
   
 ## Images generated randomly after 8750 iterations of training  
+Sample 1:  
 ![Generated Animefaces](Imgs/faces.png)  
-![Generated Animefaces](Imgs/test.png)  
-  
-## Original Images  
-![Some original images for comparision](Generated_Faces/original.png)
+Sample 2:  
+![Generated Animefaces](Imgs/test.png) 
+Sample 3:
+![Generated Animefaces](Imgs/yo.png)  
+
+## Original Images for comparision    
+![Some original images for comparision](Imgs/original.png)
 
 ## Generated your own kawaii anime faces  
 To generated your own images  
