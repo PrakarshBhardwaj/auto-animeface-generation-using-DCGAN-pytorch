@@ -3,6 +3,7 @@
   
 ## Images generated randomly after 8750 iterations of training  
 ### Sample 1:    
+<img src="Imgs/faces.png" alt="Generated Animefaces" width="200"/>
 ![Generated Animefaces](Imgs/faces.png =250x)  
   
 ### Sample 2:  
