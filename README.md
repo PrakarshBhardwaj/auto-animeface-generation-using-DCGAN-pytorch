@@ -3,21 +3,17 @@
   
 ## Images generated randomly after 8750 iterations of training  
 ### Sample 1:    
-<img src="Imgs/faces.png" alt="Generated Animefaces" width="400"/>
-![Generated Animefaces](Imgs/faces.png =250x)  
+<img src="Imgs/faces.png" alt="Generated Animefaces" width="400"/>   
   
 ### Sample 2:  
-<img src="Imgs/test.png" alt="Generated Animefaces" width="400"/>
-![Generated Animefaces](Imgs/test.png =250x)  
-  
+<img src="Imgs/test.png" alt="Generated Animefaces" width="400"/>  
+   
 ### Sample 3:  
-<img src="Imgs/yo.png" alt="Generated Animefaces" width="400"/>
-![Generated Animefaces](Imgs/yo.png =250x)  
-
+<img src="Imgs/yo.png" alt="Generated Animefaces" width="400"/>   
+  
 ## Original Images for comparision  
-<img src="Imgs/original.png" alt="Some original images for comparision" width="200"/>
-![Some original images for comparision](Imgs/original.png =250x)
-
+<img src="Imgs/original.png" alt="Some original images for comparision" width="400"/>  
+  
 ## Generated your own kawaii anime faces  
 To generated your own images  
 ```bash
