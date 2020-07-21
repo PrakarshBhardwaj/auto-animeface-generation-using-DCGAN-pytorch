@@ -1,5 +1,5 @@
 # Automatic animeface generation using DCGAN in pytorch  
-> Slightly modified implementation of the original DCGAN and using it for generating anime faces.  
+> Using DCGAN and using it for generating kawaii anime faces.  
   
 ## Images generated randomly after 8750 iterations of training  
 ![Generated Animefaces](Imgs/faces.png)  
