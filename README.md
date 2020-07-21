@@ -33,7 +33,7 @@ $ python generate_faces.py ((number of images to generate)) ((filename to save))
 https://github.com/forcecore/Keras-GAN-Animeface-Character  
 https://github.com/jayleicn/animeGAN  
 
-## relevant Paper  
+## Relevant Paper  
 https://arxiv.org/pdf/1708.05509.pdf  
 
 @Prakarsh-Bhardwaj
