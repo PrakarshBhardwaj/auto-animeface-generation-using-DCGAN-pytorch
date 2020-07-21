@@ -5,7 +5,7 @@
 Sample 1:  
 ![Generated Animefaces](Imgs/faces.png)  
 Sample 2:  
-![Generated Animefaces](Imgs/test.png) 
+![Generated Animefaces](Imgs/test.png)  
 Sample 3:
 ![Generated Animefaces](Imgs/yo.png)  
 
