@@ -26,8 +26,8 @@ $ python generate_faces.py ((number of images to generate)) ((filename to save))
 
 
 ## Dataset used
-The dataset I ended up using - https://www.kaggle.com/xxc025/animefaces  
-Similar dataset - http://www.nurs.or.jp/~nagadomi/animeface-character-dataset/  
+-> The dataset I ended up using - https://www.kaggle.com/xxc025/animefaces  
+-> Similar dataset - http://www.nurs.or.jp/~nagadomi/animeface-character-dataset/  
 
 ## Similar Projects    
 https://github.com/forcecore/Keras-GAN-Animeface-Character  
